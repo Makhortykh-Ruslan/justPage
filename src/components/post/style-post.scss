@@ -1,0 +1,38 @@
+.container-post{
+  width: 1100px;
+  background-color: #ffffff;
+  display: flex;
+  margin: 20px 0 20px 0;
+}
+.avatar{
+  width: 150px;
+  height: 150px;
+  margin: 20px 20px 20px 20px;
+}
+.title-post{
+  font-family: 'Oswald', sans-serif;
+  font-size: 25px;
+
+}
+.paragraph-post{
+  font-size: 14px;
+  margin: 13px 0 13px 0;
+  font-family: 'Roboto', sans-serif;
+  color: #6c6c6c;
+}
+.content-post{
+  margin: 16px 0 0 0;
+}
+.style-data-post{
+  display: flex;
+  justify-content: space-between;
+  width: 159px;
+  margin: 32px 0 19px 0;
+}
+.line-post{
+  border-color: #fdfdfd;
+  margin: 20px 0 20px 0;
+  width: 900px;
+  height: 1px
+}
+
